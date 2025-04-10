@@ -2,8 +2,11 @@
 # an alternative installer for Porteux distribution
 
 - How to use?
+
 `curl -L -o porteuxinstaller.sh`
+
 Login as root:
+
 `sudo -i`
 
 Run
