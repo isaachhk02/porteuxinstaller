@@ -3,7 +3,7 @@
 
 - How to use?
 
-`curl -L -o porteuxinstaller.sh`
+`curl -L https://raw.githubusercontent.com/isaachhk02/porteuxinstaller/refs/heads/main/porteuxinstall.sh -o porteuxinstaller.sh`
 
 Login as root:
 
