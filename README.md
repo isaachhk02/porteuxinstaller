@@ -15,7 +15,7 @@ Run
 
 # Functions
 -  Install to Hard Disk (HDD/NVMe)
--  MBR/GPT
+-  MBR/GPT (UEFI/LEGACY)
 # Planned functions
 -  SWAP
 -  User creation
