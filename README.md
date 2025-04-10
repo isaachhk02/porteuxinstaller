@@ -12,3 +12,10 @@ Login as root:
 Run
 
 `chmod +x porteuxinstaller.sh && ./porteuxinstaller.sh`
+
+# Functions
+-  Install to Hard Disk (HDD/NVMe)
+-  MBR/GPT
+# Planned functions
+-  SWAP
+-  User creation
