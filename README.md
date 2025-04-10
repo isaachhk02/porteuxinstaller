@@ -1,5 +1,5 @@
 # Porteux Installer by isaachhk02
-# A alternative installer for Porteux distribution
+# A alternative installer for Porteux distribution (https://github.com/porteux/porteux)
 
 - How to use?
 
